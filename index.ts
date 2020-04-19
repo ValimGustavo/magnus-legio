@@ -1,7 +1,7 @@
 // Import stylesheets
 import './style.css';
 
-import { Pessoa } from './classes/entidades/Pessoa';
+import { Pessoa } from './classes/entidades/Pessoa.class';
 import { MockPessoa } from './mock/Pessoa';
 
 

@@ -1,4 +1,4 @@
-export enum Patente {
+enum Patente {
   Peasant = "Peasant",
   Coerl = "Coerl",
   Fyrdman = "Fyrdman",
